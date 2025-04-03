@@ -13,13 +13,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🎉 Fun GIF  
-<div style="width:100%;height:0;padding-bottom:138%;position:relative;">
-  <iframe src="https://giphy.com/embed/5RtnIcLHQmIP6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p><a href="https://giphy.com/gifs/poodle-5RtnIcLHQmIP6">via GIPHY</a></p>
  
+![Funny GIF](https://media.giphy.com/media/5RtnIcLHQmIP6/giphy.gif)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
