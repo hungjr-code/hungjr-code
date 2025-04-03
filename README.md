@@ -14,7 +14,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
-![Funny GIF](https://media.giphy.com/media/5RtnIcLHQmIP6/giphy.gif)
+![Funny GIF](https://giphy.com/gifs/poodle-5RtnIcLHQmIP6)
 
 
 
