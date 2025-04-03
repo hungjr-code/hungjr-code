@@ -15,7 +15,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🎉 Fun GIF  
-![Funny GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJvdzZ1ajdteDRwaXR4NmZ0NndueWNoOGc4d2sybmZpcGN2MG0zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5RtnIcLHQmIP6/giphy.gif)  
+<div style="width:100%;height:0;padding-bottom:138%;position:relative;">
+  <iframe src="https://giphy.com/embed/5RtnIcLHQmIP6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p><a href="https://giphy.com/gifs/poodle-5RtnIcLHQmIP6">via GIPHY</a></p>
+ 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
