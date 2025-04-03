@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Undergradute Software Engineer student FPT University<br>🔗 On-going to make more personal and group projects<br>🗻Climbing to become a Fullstack Developer<br>✌🏻Find joy in🎧, 🎬and 🏀<br><br><br>
+💻 Undergradute Software Engineer student FPT University<br>🔗 On-going to make more personal and group projects<br>🗻Climbing to become a Fullstack Developer<br>✌🏻Find joy in🎧, 🎬and 🏀<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vhjrose05/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.viethungg/) 
@@ -13,5 +13,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🎉 Fun GIF  
+![Funny GIF](https://giphy.com/embed/5RtnIcLHQmIP6)  
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
