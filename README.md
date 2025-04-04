@@ -14,8 +14,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
-## 🎉 Fun GIF  
-![Funny GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJvdzZ1ajdteDRwaXR4NmZ0NndueWNoOGc4d2sybmZpcGN2MG0zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5RtnIcLHQmIP6/giphy.gif)
+## 🎉 GIF describe me  
+![Jim Carrey Reaction GIF](https://github.com/user-attachments/assets/40470e47-7e5b-46ab-97be-e62aec4afb31)
+![Money Apply GIF by INTO ACTION](https://github.com/user-attachments/assets/7142a51b-8789-43fd-82db-cb967595058d)
+
 
 
 
